@@ -1,0 +1,3 @@
+C:\projetos\C++\Cronus\Server\tools\ScriptEditor\trunk\TextEditor\bin\Release\ICSharpCode.TextEditor.dll
+C:\projetos\C++\Cronus\Server\tools\ScriptEditor\trunk\TextEditor\obj\Release\ResolveAssemblyReference.cache
+C:\projetos\C++\Cronus\Server\tools\ScriptEditor\trunk\TextEditor\obj\Release\ICSharpCode.TextEditor.dll
